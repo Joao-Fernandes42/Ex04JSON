@@ -1,0 +1,17 @@
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\bin\Debug\net6.0\Ex04T3JSON.exe
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\bin\Debug\net6.0\Ex04T3JSON.deps.json
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\bin\Debug\net6.0\Ex04T3JSON.runtimeconfig.json
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\bin\Debug\net6.0\Ex04T3JSON.dll
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\bin\Debug\net6.0\Ex04T3JSON.pdb
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\obj\Debug\net6.0\Ex04T3JSON.csproj.AssemblyReference.cache
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\obj\Debug\net6.0\Ex04T3JSON.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\obj\Debug\net6.0\Ex04T3JSON.AssemblyInfoInputs.cache
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\obj\Debug\net6.0\Ex04T3JSON.AssemblyInfo.cs
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\obj\Debug\net6.0\Ex04T3JSON.csproj.CoreCompileInputs.cache
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\obj\Debug\net6.0\Ex04T3JSON.csproj.CopyComplete
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\obj\Debug\net6.0\Ex04T3JSON.dll
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\obj\Debug\net6.0\refint\Ex04T3JSON.dll
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\obj\Debug\net6.0\Ex04T3JSON.pdb
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\obj\Debug\net6.0\Ex04T3JSON.genruntimeconfig.cache
+C:\Users\AEMaximinos\Desktop\Psi A\Ex04T3JSON\Ex04T3JSON\obj\Debug\net6.0\ref\Ex04T3JSON.dll
